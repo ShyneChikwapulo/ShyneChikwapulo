@@ -107,7 +107,7 @@
 
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Sigmund%20Freud&quote=When%20one%20does%20not%20have%20what%20one%20wants%2C%20one%20must%20want%20what%20one%20has.&theme=dark&bg_color=071c26&author_color=89cff0&accent_color=3de0d0">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Meister%20Eckhart&quote=There%20exists%20only%20the%20present%20instant%3B%20a%20Now%20which%20always%20and%20without%20end%20is%20itself%20new.&theme=dark&bg_color=071c26&author_color=89cff0&accent_color=3de0d0">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
 
