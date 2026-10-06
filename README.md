@@ -107,7 +107,7 @@
 
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Steve%20Harvey&quote=Stop%20wasting%20time%20looking%20at%20someone%20else's%20reality%20while%20doing%20nothing%20about%20yours.&theme=dark&bg_color=071c26&author_color=89cff0&accent_color=3de0d0">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Sigmund%20Freud&quote=When%20one%20does%20not%20have%20what%20one%20wants%2C%20one%20must%20want%20what%20one%20has.&theme=dark&bg_color=071c26&author_color=89cff0&accent_color=3de0d0">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
 
