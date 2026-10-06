@@ -107,7 +107,7 @@
 
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Stephen%20Hawking&quote=The%20thing%20about%20smart%20people%20is%20that%20they%20seem%20like%20crazy%20people%20to%20dumb%20people.&theme=dark&bg_color=071c26&author_color=89cff0&accent_color=3de0d0">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Steve%20Harvey&quote=Stop%20wasting%20time%20looking%20at%20someone%20else's%20reality%20while%20doing%20nothing%20about%20yours.&theme=dark&bg_color=071c26&author_color=89cff0&accent_color=3de0d0">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
 
