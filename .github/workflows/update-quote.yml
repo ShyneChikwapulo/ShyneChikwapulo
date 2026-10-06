@@ -26,8 +26,14 @@ jobs:
 
       - name: Commit and push changes
         run: |
-          git config user.name 'github-actions[bot]'
-          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+
+          # IMPORTANT:
+          # Replace these with your own GitHub username and
+          # an email address associated with your GitHub account
+          # if you want the commits to appear on your contribution graph.
+          
+          git config user.name 'ShyneChikwapulo'
+          git config user.email 'chikwapuloshine@gmail.com'
           git add README.md
           git diff --staged --quiet || git commit -m 'Update README with daily quote'
           git push
