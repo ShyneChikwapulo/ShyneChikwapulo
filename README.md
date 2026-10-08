@@ -107,7 +107,7 @@
 
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Naval%20Ravikant&quote=No%20one%20can%20compete%20with%20you%20on%20being%20you.%20Most%20of%20life%20is%20a%20search%20for%20who%20and%20what%20needs%20you%20the%20most.&theme=dark&bg_color=071c26&author_color=89cff0&accent_color=3de0d0">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Eckhart%20Tolle&quote=Be%20the%20silent%20watcher%20of%20your%20thoughts%20and%20behavior.%20You%20are%20beneath%20the%20thinker.&theme=dark&bg_color=071c26&author_color=89cff0&accent_color=3de0d0">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
 
