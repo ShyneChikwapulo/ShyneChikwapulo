@@ -107,7 +107,7 @@
 
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Eckhart%20Tolle&quote=Be%20the%20silent%20watcher%20of%20your%20thoughts%20and%20behavior.%20You%20are%20beneath%20the%20thinker.&theme=dark&bg_color=071c26&author_color=89cff0&accent_color=3de0d0">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Lao%20Tzu&quote=We%20shape%20clay%20into%20a%20pot%2C%20but%20it%20is%20the%20emptiness%20inside%20that%20holds%20whatever%20we%20want.&theme=dark&bg_color=071c26&author_color=89cff0&accent_color=3de0d0">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
 
