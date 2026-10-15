@@ -107,7 +107,7 @@
 
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Unknown&quote=On%20the%20other%20side%20of%20the%20clouds%20is%20a%20bright%20blue%20sky.&theme=dark&bg_color=071c26&author_color=89cff0&accent_color=3de0d0">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Soren%20Kierkegaard&quote=Life%20is%20not%20a%20problem%20to%20be%20solved%2C%20but%20a%20reality%20to%20be%20experienced.&theme=dark&bg_color=071c26&author_color=89cff0&accent_color=3de0d0">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
 
