@@ -107,7 +107,7 @@
 
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Soren%20Kierkegaard&quote=Life%20is%20not%20a%20problem%20to%20be%20solved%2C%20but%20a%20reality%20to%20be%20experienced.&theme=dark&bg_color=071c26&author_color=89cff0&accent_color=3de0d0">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Kenji%20Miyazawa&quote=She%20who%20loves%20roses%20must%20be%20patient%20and%20not%20cry%20out%20when%20she%20is%20pierced%20by%20thorns.&theme=dark&bg_color=071c26&author_color=89cff0&accent_color=3de0d0">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
 
