@@ -107,7 +107,7 @@
 
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Oscar%20Wilde&quote=Be%20yourself%3B%20everyone%20else%20is%20already%20taken%20&theme=dark&bg_color=071c26&author_color=89cff0&accent_color=3de0d0">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Bob%20Proctor&quote=Thoughts%20become%20things.%20If%20you%20see%20it%20in%20your%20mind%2C%20you%20will%20hold%20it%20in%20your%20hand.&theme=dark&bg_color=071c26&author_color=89cff0&accent_color=3de0d0">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
 
