@@ -107,7 +107,7 @@
 
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Brian%20Tracy&quote=Spend%20eighty%20percent%20of%20your%20time%20focusing%20on%20the%20opportunities%20of%20tomorrow%20rather%20than%20the%20problems%20of%20yesterday.&theme=dark&bg_color=071c26&author_color=89cff0&accent_color=3de0d0">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Thomas%20Jefferson&quote=If%20you%20want%20something%20you've%20never%20had%20you%20must%20be%20willing%20to%20do%20something%20you've%20never%20done.&theme=dark&bg_color=071c26&author_color=89cff0&accent_color=3de0d0">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
 
