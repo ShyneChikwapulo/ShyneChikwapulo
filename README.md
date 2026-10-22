@@ -107,7 +107,7 @@
 
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Thomas%20Jefferson&quote=If%20you%20want%20something%20you've%20never%20had%20you%20must%20be%20willing%20to%20do%20something%20you've%20never%20done.&theme=dark&bg_color=071c26&author_color=89cff0&accent_color=3de0d0">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Charles%20Dickens&quote=Reflect%20upon%20your%20present%20blessings%20of%20which%20every%20man%20has%20many%20-%20not%20on%20your%20past%20misfortunes%2C%20of%20which%20all%20men%20have%20some.&theme=dark&bg_color=071c26&author_color=89cff0&accent_color=3de0d0">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
 
