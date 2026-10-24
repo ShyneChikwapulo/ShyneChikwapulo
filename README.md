@@ -107,7 +107,7 @@
 
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Charles%20Dickens&quote=Every%20traveler%20has%20a%20home%20of%20his%20own%2C%20and%20he%20learns%20to%20appreciate%20it%20the%20more%20from%20his%20wandering.&theme=dark&bg_color=071c26&author_color=89cff0&accent_color=3de0d0">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Colin%20Powell&quote=A%20dream%20doesn't%20become%20reality%20through%20magic%20it%20takes%20sweat%2C%20determination%20and%20hard%20work.&theme=dark&bg_color=071c26&author_color=89cff0&accent_color=3de0d0">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
 
