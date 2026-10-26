@@ -107,7 +107,7 @@
 
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Estee%20Lauder&quote=Be%20strong.%20Be%20confident.%20Be%20the%20star%20of%20your%20own%20life.&theme=dark&bg_color=071c26&author_color=89cff0&accent_color=3de0d0">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Steve%20Maraboli&quote=Life%20doesn't%20get%20easier%20or%20more%20forgiving%2C%20we%20get%20stronger%20and%20more%20resilient.&theme=dark&bg_color=071c26&author_color=89cff0&accent_color=3de0d0">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
 
