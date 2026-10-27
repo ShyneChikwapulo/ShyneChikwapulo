@@ -68,7 +68,11 @@
       <h3 align="center"><strong>Sᴛʀᴇᴀᴋ sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/ShyneChikwapulo">
-          <img align="center" src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=ShyneChikwapulo&theme=nightowl&background=0,000000,0b3a4a&fire=89cff0&ring=3de0d0&sideNums=ffffff&sideLabels=ffffff&dates=3de0d0&currStreakNum=ffffff" alt="Streak Stats" />
+          <img
+            align="center"
+            src="https://streak-stats.demolab.com/?user=ShyneChikwapulo&theme=nightowl&background=0,000000,0b3a4a&fire=89cff0&ring=3de0d0&sideNums=ffffff&sideLabels=ffffff&dates=3de0d0&currStreakNum=ffffff"
+            alt="Streak Stats"
+          />
         </a>
       </p>
     </td>
