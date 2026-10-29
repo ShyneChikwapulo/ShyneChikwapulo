@@ -111,7 +111,7 @@
 
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Beverly%20Sills&quote=Anger%20begins%20with%20folly%2C%20and%20ends%20with%20repentance.%20&theme=dark&bg_color=071c26&author_color=89cff0&accent_color=3de0d0">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Colin%20Powell&quote=Always%20show%20more%20kindness%20than%20seems%20necessary%20because%20the%20person%20receiving%20it%20needs%20it%20more%20than%20you%20will%20ever%20know.&theme=dark&bg_color=071c26&author_color=89cff0&accent_color=3de0d0">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
 
