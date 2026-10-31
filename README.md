@@ -111,7 +111,7 @@
 
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Robert%20Greene&quote=The%20person%20who%20cannot%20control%20his%20words%20shows%20that%20he%20cannot%20control%20himself.&theme=dark&bg_color=071c26&author_color=89cff0&accent_color=3de0d0">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Celestine%20Chua&quote=Happiness%20is%20an%20effect%20of%20doing%20what%20you%20love%2C%20not%20an%20end%20goal%20to%20be%20achieved.&theme=dark&bg_color=071c26&author_color=89cff0&accent_color=3de0d0">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
 
