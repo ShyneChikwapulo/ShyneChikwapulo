@@ -111,7 +111,7 @@
 
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Oprah%20Winfrey&quote=The%20greatest%20discovery%20of%20all%20time%20is%20that%20a%20person%20can%20change%20their%20future%20by%20merely%20changing%20their%20attitude.&theme=dark&bg_color=071c26&author_color=89cff0&accent_color=3de0d0">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Nicolas%20Chamfort&quote=There%20are%20more%20people%20who%20wish%20to%20be%20loved%20than%20there%20are%20who%20are%20willing%20to%20love.%20&theme=dark&bg_color=071c26&author_color=89cff0&accent_color=3de0d0">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
 
