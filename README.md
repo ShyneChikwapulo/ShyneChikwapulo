@@ -111,7 +111,7 @@
 
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Stephen%20Hawking&quote=Remember%20to%20look%20up%20at%20the%20stars%20and%20not%20down%20at%20your%20feet.&theme=dark&bg_color=071c26&author_color=89cff0&accent_color=3de0d0">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Plato&quote=There%20are%20two%20things%20a%20person%20should%20never%20be%20angry%20at%2C%20what%20they%20can%20help%2C%20and%20what%20they%20cannot.&theme=dark&bg_color=071c26&author_color=89cff0&accent_color=3de0d0">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
 
