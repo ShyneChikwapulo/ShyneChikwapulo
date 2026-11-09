@@ -111,7 +111,7 @@
 
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Leonardo%20da%20Vinci&quote=All%20our%20knowledge%20has%20its%20origins%20in%20our%20perceptions.&theme=dark&bg_color=071c26&author_color=89cff0&accent_color=3de0d0">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Jim%20Rohn&quote=Don't%20let%20your%20learning%20lead%20to%20knowledge.%20Let%20your%20learning%20lead%20to%20action.&theme=dark&bg_color=071c26&author_color=89cff0&accent_color=3de0d0">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
 
