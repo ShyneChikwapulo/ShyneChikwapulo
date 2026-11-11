@@ -111,7 +111,7 @@
 
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=George%20Bernard%20Shaw&quote=The%20most%20tragic%20thing%20in%20the%20world%20is%20a%20man%20of%20genius%20who%20is%20not%20a%20man%20of%20honor.&theme=dark&bg_color=071c26&author_color=89cff0&accent_color=3de0d0">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=John%20Lennon&quote=A%20mistake%20is%20only%20an%20error%2C%20it%20becomes%20a%20mistake%20when%20you%20fail%20to%20correct%20it.&theme=dark&bg_color=071c26&author_color=89cff0&accent_color=3de0d0">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
 
