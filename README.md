@@ -111,7 +111,7 @@
 
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Franz%20Kafka&quote=You%20are%20free%2C%20and%20that%20is%20why%20you%20are%20lost.%20&theme=dark&bg_color=071c26&author_color=89cff0&accent_color=3de0d0">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=D.%20H.%20Lawrence&quote=Be%20a%20good%20animal%2C%20true%20to%20your%20instincts.&theme=dark&bg_color=071c26&author_color=89cff0&accent_color=3de0d0">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
 
