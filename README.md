@@ -111,7 +111,7 @@
 
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Robert%20Kiyosaki&quote=It's%20not%20what%20you%20say%20out%20of%20your%20mouth%20that%20determines%20your%20life%2C%20it's%20what%20you%20whisper%20to%20yourself%20that%20has%20the%20most%20power!&theme=dark&bg_color=071c26&author_color=89cff0&accent_color=3de0d0">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Ming-Dao%20Deng&quote=Make%20your%20stand%20today.%20On%20this%20spot.%20On%20this%20day.&theme=dark&bg_color=071c26&author_color=89cff0&accent_color=3de0d0">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
 
