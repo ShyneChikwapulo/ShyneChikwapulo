@@ -111,7 +111,7 @@
 
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Roy%20T.%20Bennett&quote=Time%20doesn't%20heal%20emotional%20pain%2C%20you%20need%20to%20learn%20how%20to%20let%20go.&theme=dark&bg_color=071c26&author_color=89cff0&accent_color=3de0d0">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Harry%20S.%20Truman&quote=Once%20a%20decision%20was%20made%2C%20I%20didn't%20worry%20about%20it%20afterward.&theme=dark&bg_color=071c26&author_color=89cff0&accent_color=3de0d0">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
 
