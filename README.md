@@ -111,7 +111,7 @@
 
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Criss%20Jami&quote=I%20don't%20pretend%20to%20know%20everything%3B%20I%20just%20only%20speak%20on%20matters%20I%20know%20I'll%20win.&theme=dark&bg_color=071c26&author_color=89cff0&accent_color=3de0d0">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Buddha&quote=If%20anything%20is%20worth%20doing%2C%20do%20it%20with%20all%20your%20heart.&theme=dark&bg_color=071c26&author_color=89cff0&accent_color=3de0d0">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
 
